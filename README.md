@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=afmp94&show_icons=true&locale=en&theme=tokyonight" alt="afmp94" /></p>
+
 <!--
 **afmp94/afmp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
