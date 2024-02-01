@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=afmp94&show_icons=true&locale=en&theme=tokyonight" alt="afmp94" /></p>
+![afmp94's Stats](https://github-readme-stats.vercel.app/api?username=afmp94&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![afmp94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afmp94&theme=dark&hide_border=false)
+
 
 <!--
 **afmp94/afmp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
