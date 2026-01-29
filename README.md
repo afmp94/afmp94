@@ -57,6 +57,21 @@ mental wellness tracking in spanish. emotions, energy, sleep, habits, journals. 
 
 ---
 
+## open source
+
+| repo | description |
+|------|-------------|
+| **[gradient-ruby](https://github.com/brainz-llc/gradient-ruby)** | ruby client for DigitalOcean Gradient AI |
+| **[railsblocks_phlex](https://github.com/brainz-llc/railsblocks_phlex)** | phlex components for rails apps |
+| **[tailwindcss_ui_blocks](https://github.com/brainz-llc/tailwindcss_ui_blocks)** | tailwind CSS UI component library |
+| **[facebook-mcp-server](https://github.com/brainz-llc/facebook-mcp-server)** | MCP server for facebook automation |
+
+**brainz lab repos** → [github.com/brainz-lab](https://github.com/brainz-lab)
+- `recall` `reflex` `pulse` `flux` `signal` `cortex` `beacon` `sentinel` `nerve` `vision` `vault` `synapse` `dendrite`
+- SDKs: `brainzlab-ruby` `brainzlab-rails` `brainzlab-js`
+
+---
+
 ## background
 
 13+ years building software. rails since 2012. led teams, built ERPs, scaled platforms across LATAM.
