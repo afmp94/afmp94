@@ -1,6 +1,7 @@
 # hi, i'm andres
 
 [![website](https://img.shields.io/badge/afmp94.com-1A1A1A?style=flat-square&logo=safari&logoColor=white)](https://afmp94.com)
+[![brainz](https://img.shields.io/badge/brainz.llc-6366F1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDEwIDEwQTEwIDEwIDAgMCAwIDEyIDJ6Ii8+PC9zdmc+&logoColor=white)](https://brainz.llc)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/afmp94)
 [![twitter](https://img.shields.io/badge/@afmp94-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/afmp94)
 [![email](https://img.shields.io/badge/hello@afmp94.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@afmp94.com)
@@ -38,6 +39,9 @@ AI-native infrastructure. logs, errors, APM, feature flags, uptime, secrets. 16 
 ### ⚖️ **[lexpro](https://lex-pro.co)**
 legal management for LATAM lawyers. AI-powered research, semantic document search with pgvector. built 100% with Claude. real product, real users.
 → [lex-pro.co](https://lex-pro.co)
+
+### 💰 **browq**
+AI financial coaching. personalized wealth-building guidance and financial literacy for everyone.
 
 ### 🏢 **propi**
 property management for residential buildings. multi-tenant, amenity booking, assemblies, PQR system, security portal.
