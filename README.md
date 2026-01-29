@@ -55,6 +55,9 @@ colombian tax optimization. maximize deductions, file form 210, compare IMAN vs 
 ### 🧘 **respira**
 mental wellness tracking in spanish. emotions, energy, sleep, habits, journals. year-view heatmap.
 
+### 🎮 **[fun-able](https://github.com/brainz-llc/fun-able)**
+multiplayer party card game. cards against humanity style. custom decks, regional content, meme cards.
+
 ---
 
 ## open source
