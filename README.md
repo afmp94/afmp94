@@ -87,5 +87,5 @@ now: one founder. AI team. multiple products.
 building on the shoulders of giants. i can't believe how far we got in the last 3 years.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afmp94&style=flat-square&color=1A1A1A" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=afmp94&style=flat-square&color=1A1A1A" alt="profile views"/> <i>(counter added Jan 2025)</i>
 </p>
