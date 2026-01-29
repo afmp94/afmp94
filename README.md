@@ -80,7 +80,7 @@ mental wellness tracking in spanish. emotions, energy, sleep, habits, journals. 
 - **CTO** @ symplifica - HR tech platform
 - **director of IT** @ ROEPA international - ERP and enterprise
 
-featured in **MongoDB** and **DigitalOcean** case studies.
+featured in [**MongoDB**](https://www.mongodb.com/es/solutions/customer-case-studies/picap) and [**DigitalOcean**](https://www.digitalocean.com/customers/picap) case studies. [podcast appearance](https://www.youtube.com/watch?v=gVYc77XQXWc).
 
 now: one founder. AI team. multiple products.
 
@@ -89,6 +89,12 @@ now: one founder. AI team. multiple products.
 ## github activity
 
 ![afmp94's github chart](https://ghchart.rshah.org/afmp94)
+
+---
+
+## more about me
+
+[/now](https://afmp94.com/now) · [/projects](https://afmp94.com/projects) · [/uses](https://afmp94.com/uses) · [/reading](https://afmp94.com/reading) · [/principles](https://afmp94.com/principles) · [/timeline](https://afmp94.com/timeline) · [/failures](https://afmp94.com/failures)
 
 ---
 
